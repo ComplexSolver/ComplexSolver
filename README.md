@@ -27,7 +27,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWoyeTU4cHJsN3B4MW95Zzl4bHRxZjRmd2s3N3F2Y3FoN3I5MjRvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
 </div>
 
-### :woman_technologist: About Me : I am an Aspiring Full Stack Java Developer from India.
+### :woman_technologist: About Me : I am an Aspiring MERN/Java Full Stack Developer from India.
 - 👀 I’m interested in Software Developement and Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning Spring framework, Spring Boot, Angular 
 - 😄 Pronouns: She/Her
